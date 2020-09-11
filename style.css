@@ -27,20 +27,20 @@ body {
 
 section#about {
   background-attachment: scroll;
-  background: url(/assets/img/bg_bottom_left.svg) no-repeat 0 100%,url(assets/img/bg_bottom_right.svg) no-repeat 100% 100%, #A2D9F3;
+  background: url(/puzzle-schnuppertag-2020/assets/img/bg_bottom_left.svg) no-repeat 0 100%,url(/puzzle-schnuppertag-2020/assets/img/bg_bottom_right.svg) no-repeat 100% 100%, #A2D9F3;
 }
 
 section#register {
-  background: url(/assets/img/sidebar_deco_left.svg) no-repeat 0 100%,url(assets/img/sidebar_deco_right.svg) no-repeat 100% 100%,url(/assets/img/bg_top_left.svg) no-repeat 0 0,url(assets/img/bg_top_right.svg) no-repeat 100% 0, #3b7bbe;
+  background: url(/puzzle-schnuppertag-2020/assets/img/sidebar_deco_left.svg) no-repeat 0 100%,url(/puzzle-schnuppertag-2020/assets/img/sidebar_deco_right.svg) no-repeat 100% 100%,url(/puzzle-schnuppertag-2020/assets/img/bg_top_left.svg) no-repeat 0 0,url(/puzzle-schnuppertag-2020/assets/img/bg_top_right.svg) no-repeat 100% 0, #3b7bbe;
 }
 
 @media(max-width:768px){
   section#about {
-    background: url(/assets/img/bg_bottom_left.svg) no-repeat 0 100% #A2D9F3;
+    background: url(/puzzle-schnuppertag-2020/assets/img/bg_bottom_left.svg) no-repeat 0 100% #A2D9F3;
     padding-bottom: 160px;
   }
   section#register {
-    background: url(/assets/img/sidebar_deco_left.svg) no-repeat 0 100%, #3b7bbe;
+    background: url(/puzzle-schnuppertag-2020/assets/img/sidebar_deco_left.svg) no-repeat 0 100%, #3b7bbe;
     padding-bottom: 160px;
   }
 
@@ -299,7 +299,7 @@ header {
   text-align: left;
   color: #fff;
   background-attachment: scroll;
-  background: url(/assets/img/deco_rocker.png) no-repeat 100% 35%,url(/assets/img/deco_light.png) no-repeat 0 100%, #1E5996;
+  background: url(/puzzle-schnuppertag-2020/assets/img/deco_rocker.png) no-repeat 100% 35%,url(/puzzle-schnuppertag-2020/assets/img/deco_light.png) no-repeat 0 100%, #1E5996;
 
 }
 
@@ -588,72 +588,6 @@ section h3.section-subheading {
 
 aside.clients img {
   margin: 50px auto;
-}
-
-section#contact {
-  background-color: #1E5A96;
-  background-image: url('/img/map-image.png');
-  background-size: 10% 10%;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-section#contact .section-heading {
-  color: #fff;
-}
-
-section#contact .form-group {
-  margin-bottom: 25px;
-}
-
-section#contact .form-group input,
-section#contact .form-group textarea {
-  padding: 20px;
-}
-
-section#contact .form-group input.form-control {
-  height: auto;
-}
-
-section#contact .form-group textarea.form-control {
-  height: 236px;
-}
-
-section#contact .form-control:focus {
-  border-color: #;
-  box-shadow: none;
-}
-
-section#contact::-webkit-input-placeholder {
-  text-transform: uppercase;
-  font-family: Roboto, "Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-weight: 700;
-  color: #bbb;
-}
-
-section#contact:-moz-placeholder {
-  text-transform: uppercase;
-  font-family: Roboto, "Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-weight: 700;
-  color: #bbb;
-}
-
-section#contact::-moz-placeholder {
-  text-transform: uppercase;
-  font-family: Roboto, "Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-weight: 700;
-  color: #bbb;
-}
-
-section#contact:-ms-input-placeholder {
-  text-transform: uppercase;
-  font-family: Roboto, "Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-weight: 700;
-  color: #bbb;
-}
-
-section#contact .text-danger {
-  color: #e74c3c;
 }
 
 footer {
