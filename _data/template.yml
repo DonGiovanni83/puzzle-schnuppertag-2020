@@ -1,0 +1,11 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: #1E5A96   #EC62E6  #ff8019     #fed136
+  secondary: #238BCA
+  secondary-dark: #3B7BBE
+  muted: 777
+
+# Font Families
+font:
+  primary: 'Roboto, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Roboto", "Helvetica Neue", Helvetica,Arial,sans-serif'
