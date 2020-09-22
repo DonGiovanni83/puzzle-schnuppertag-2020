@@ -45,6 +45,17 @@ section#register {
   }
 
 }
+
+.covid-alert {
+    padding: 12px;
+    margin: 16px 0;
+
+    border: solid red;
+    border-radius: 6px;
+
+    background: #fff;
+}
+
 label {
   font-weight: 400;
   color: #fff;
